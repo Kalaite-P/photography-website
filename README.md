@@ -1,5 +1,5 @@
 # Photography Website
-This is a simple website using html:5 and css showing a list of my favourite photos. A virtual vision-board with several photos that sinify a vision.
+This is a simple website using html:5 and css showing a list of my favourite photos. A virtual vision-board containing several photos, with each photo signifying a vision.
 
 ## Features
 * Practice on various HTML Elements and tags.
