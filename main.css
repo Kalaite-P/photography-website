@@ -42,7 +42,8 @@ p{
 table *{
     color: bisque;
     font-size: 30px;
-    margin-right: 8px; 
+    margin-right: 8px;
+    text-align: center; 
 }
 
 
